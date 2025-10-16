@@ -16,7 +16,7 @@ const page = () => {
             একটি আন্তর্জাতিক iGaming সফটওয়্যার প্রদানকারী যা বিভিন্ন রকমের পণ্য এবং সমাধান প্রদান করে, যা অপারেটরদের দ্রুত তাদের ব্যবসা এবং উন্নতি করতে সহায়তা করে।
           </p>
           <button className="mt-6 bg-purple-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-purple-700">
-            <Link href="https://t.me/nuxgame_retail_bd">Get Proposal</Link>
+            <Link href="https://t.me/Oliver_Jack_Nux_BD">Get Proposal</Link>
           </button>
         </div>
         <div className="flex-1">
